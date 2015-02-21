@@ -4,7 +4,7 @@ This tool can create archives for use in XinFeiFei (NewFlyFF) which is the curre
 
 # Usage
 
-- uWdfArchiver UI ui.wdf 
+###uWdfArchiver UI ui.wdf 
 will take the UI folder and create the ui.wdf archive out of the files inside the UI folder.
 
 This is released under the WTFPL - License:
